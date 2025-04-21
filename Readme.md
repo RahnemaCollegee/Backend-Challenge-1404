@@ -19,7 +19,7 @@
 
 ## سوالات الگوریتمی
 
-سوالات رو با دو سوال الگوریتمی شروع میکنیم که می‌تونید توضیحاتشون را در [اینجا](https://github.com/RahnemaCollegee/algorithm_challenge_1404) بخونید.
+سوالات رو با دو سوال الگوریتمی شروع میکنیم که می‌تونید توضیحاتشون را در [اینجا](https://github.com/RahnemaCollegee/Algorithm-Challenge-1404) بخونید.
 
 </br></br>
 
